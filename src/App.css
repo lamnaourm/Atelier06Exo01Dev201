@@ -27,6 +27,7 @@
 header, footer {
   background-color: rgb(11, 11, 178);
   color: white;
+  text-align: center;
 }
 
 input[type=submit] {
